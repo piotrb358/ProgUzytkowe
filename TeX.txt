@@ -1,0 +1,7 @@
+texcenter + miktex
+
+gust.org.pl
+
+https://github.com/lukzmu/university-pu/tree/master/02.%20Latex%20-%20Formatowanie%20tekstu
+
+freecomander - œci¹gn¹æ
